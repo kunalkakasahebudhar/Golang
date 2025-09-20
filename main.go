@@ -5,8 +5,10 @@ import "fmt"
 func main() {
 	fmt.Println("Program started...")
 
-	// hello()
-	// veriables()
-	// Constants()
+	hello()
+	veriables()
+	Constants()
 	datatype()
+	Operators()
+
 }
