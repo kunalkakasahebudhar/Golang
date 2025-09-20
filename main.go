@@ -7,4 +7,5 @@ func main() {
 
 	hello()
 	veriables()
+	Constants()
 }
