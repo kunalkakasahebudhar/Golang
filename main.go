@@ -10,6 +10,7 @@ func main() {
 	// Constants()
 	// datatype()
 	// Operators()
-	conditionals()
+	// conditionals()
+	loop()
 
 }
