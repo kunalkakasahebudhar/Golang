@@ -13,6 +13,7 @@ func main() {
 	// conditionals()
 	// loops()
 	// array()
-	stringfun()
+	// stringfun()
+	input_output()
 
 }
