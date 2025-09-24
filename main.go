@@ -12,6 +12,7 @@ func main() {
 	// Operators()
 	// conditionals()
 	// loops()
-	array()
+	// array()
+	stringfun()
 
 }
