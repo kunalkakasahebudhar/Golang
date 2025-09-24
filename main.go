@@ -14,6 +14,7 @@ func main() {
 	// loops()
 	// array()
 	// stringfun()
-	input_output()
+	// input_output()
+	pointer()
 
 }
