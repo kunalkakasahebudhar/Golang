@@ -3,7 +3,8 @@ package main
 import "fmt"
 
 func Operators() {
-	a, b := 10, 3
+	a := 10
+	b := 20
 
 	// Arithmetic Operators: + add, - subtract, * multiply, / divide, % modulus
 	fmt.Println("a + b =", a+b) // Addition

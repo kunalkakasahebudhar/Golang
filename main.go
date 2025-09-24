@@ -11,6 +11,7 @@ func main() {
 	// datatype()
 	// Operators()
 	// conditionals()
-	loop()
+	// loops()
+	array()
 
 }
